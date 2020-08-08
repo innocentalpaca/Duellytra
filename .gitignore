@@ -1,0 +1,18 @@
+# Maven
+/target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+/bin/
+
+# IntelliJ
+/.idea/
+*.iml
+*.ipr
+*.iws
+
+# Netbeans
+/.nb-gradle/
+*.nb-gradle-properties

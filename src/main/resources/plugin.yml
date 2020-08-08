@@ -1,0 +1,6 @@
+name: Duellytra
+version: ${project.version}
+author: InnocentAlpaca
+website: innocentalpaca.me
+main: me.innocentalpaca.duellytra.Duellytra
+api-version: 1.16
